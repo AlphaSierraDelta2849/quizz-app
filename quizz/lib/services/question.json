@@ -1,0 +1,208 @@
+[
+    {
+      "themeName": "Géographie",
+      "questions": [
+        {
+          "questionText": "Combien de régions compte le Sénégal?",
+          "options": ["10", "20", "14", "18"],
+          "correctOptionIndex": 2
+        },
+        {
+            "questionText": "Quelles sont les 3 dernières régions du Sénégal?",
+            "options": ["Matam,Kédougou,Sédhiou", "Kaffrine,Kédougou,Sédhiou", "Thiès,Dakar,Keur Massar", "Kolda,Sédhiou,Matam"],
+            "correctOptionIndex": 1
+          },
+          {
+            "questionText": "Quelle est la population du Sénégal?",
+            "options": ["17 millions", "12 millions", "15 millions", "22 millions"],
+            "correctOptionIndex": 0
+          },
+          {
+            "questionText": "Quelle est la superficie du Sénégal?",
+            "options": ["196712 km2", "196712 m2", "200000 m2", "212312 km2"],
+            "correctOptionIndex": 3
+          },
+          {
+            "questionText": "Quel secteur d'activité contribue le plus au PIB du Sénégal?",
+            "options": ["Secteur primaire", "Secteur secondaire", "Secteur tertiare", "les télécommunications"],
+            "correctOptionIndex": 2
+          },
+          {
+            "questionText": "A quelle altitude s'élève le point culminant du Sénégal?",
+            "options": ["1750 m", "581m", "428 m", "1 km"],
+            "correctOptionIndex": 1
+          },
+          {
+            "questionText": "Quelle structure au Sénégal s'occupe de l'élaboration des rapports sur les statistiques démographiques et perspectives de croissances au Sénégal?",
+            "options": ["ANSD", "CESE", "OMVS", "OFNAC"],
+            "correctOptionIndex": 0
+          },
+          {
+            "questionText": "Qu'est-ce que l'exode rural?",
+            "options": ["Le déplacement des populations des villages vers les villes", "Le taux de la population habitant en ville", "Le taux de croissance de la population", "Le nombre de personnes habitant dans les villages"],
+            "correctOptionIndex": 0
+          }
+      ]
+    },
+    {
+      "themeName": "Histoire",
+      "questions": [
+        {
+          "questionText": "Qui fut le premier président du Sénégal?",
+          "options": ["Léopold Sédar Senghor", "Lamine Gueye", "Mamadou Dia", "Abdoulaye Wade"],
+          "correctOptionIndex": 0
+        },
+        {
+            "questionText": "En quelle année le Sénégal accède-t-il à l'indépendance?",
+            "options": ["1962", "1958", "1975", "1960"],
+            "correctOptionIndex": 0
+          },
+          {
+            "questionText": "Lat Dior DIOP est un résistant Sénégalais mort au combat le 26 Octobre 1886. De quelle bataille s'agissait-il?",
+            "options": ["Paos Coto", "Samba Sadio", "Dékheulé", "Ngol-Ngol"],
+            "correctOptionIndex": 2
+          },
+          {
+            "questionText": "Quel titre portait le roi du Walo?",
+            "options": ["Damel", "Brack", "Bourba", "Almamy"],
+            "correctOptionIndex": 1
+          },
+          {
+            "questionText": "Quand eut lieu la 'révolution torodo' des marabouts dans le Fouta Toro?",
+            "options": ["1790", "1532", "1776", "1850"],
+            "correctOptionIndex": 1
+          },
+          {
+            "questionText": "Qui furent les premiers Européens à s'établir au Sénégal?",
+            "options": ["Portugais", "Français", "Anglais", "Hollandais"],
+            "correctOptionIndex": 3
+          },
+          {
+            "questionText": "En quelle année se tint la bataille de Danki?",
+            "options": ["1549", "1725", "1645", "1865"],
+            "correctOptionIndex": 0
+          },
+          {
+            "questionText": "Qui fut la première femme à accéder à la primature du Sénégal?",
+            "options": ["Aminata Touré", "Aida Mbodj", "Aminata Tall", "Mame Madior BOYE"],
+            "correctOptionIndex": 3
+          },
+          {
+            "questionText": "La confédération de Sénégambie a existé de...?",
+            "options": ["2002 à 2005", "1972 à 1979", "1982 à 1989", "1960 à 1965"],
+            "correctOptionIndex": 2
+          },
+          {
+            "questionText": "Quelle résistante Sénégalaise est surnomée <<La dame de cabrousse>>?",
+            "options": ["Annette Mbaye d'Erneville", "Aline Sitoé Diatta", "Ndatté Yalla Mbodj", "Ndjeumbeut Mbodj"],
+            "correctOptionIndex": 1
+          }
+      ]
+    },
+    {
+      "themeName": "Mathématiques et sciences",
+      "questions": [
+        {
+          "questionText": "Donnez le nombre premier parmi la liste suivante",
+          "options": ["1", "9", "12", "17"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionText": "Quelle suite de nombre ne contient que des multiples de 7",
+          "options": ["21; 17; 42;63", "14; 70; 140; 28", "12; 47; 21; 89", "21;27; 18; 35"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionText": "Donnez la valeur de x dans la formule suivante: x+12=5",
+          "options": ["-7","12","7","5"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionText": "En Mathématiques, comment note-t-on l'ensemble des entiers relatifs",
+          "options": ["R","N","D","Z"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionText": "Comment appelle-t-on la ligne qui relie deux points du cercle en passant par le centre?",
+          "options": ["corde","rayon","diamètre","tangente"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionText": "Quelle est la formule du bénéfice?",
+          "options": ["PA+ FRAIS","PR + FRAIS","PV - PR","PR - PA"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionText": "Que donne la racine carrée du carré d'un nombre x?",
+          "options": ["x","|x|","x2","-x"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionText": "D'après le principe de Lavoisier,",
+          "options": ["Rien ne se crée, rien ne se perd, tout se transforme","Tout a un début et une fin","Les memes causes produisent les memes effets","La forme ne change pas"],
+          "correctOptionIndex": 2
+        },
+        {
+          "questionText": "Comment nomme-t-on la surface d'un cerle",
+          "options": ["disque","triangle","sphère","rayon"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionText": "Quelles sont les états de la matière,",
+          "options": ["solide, liquide, gaz","eau, glace, vapeur","fusion, solidification, vaporisation","aucune de ces réponses"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionText": "Dans le système international quel est l'unité principale de mesure de masse?",
+          "options": ["Tonne","Litre","m","Kilogramme"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionText": "Lequel n'est pas un sens chez l'homme?",
+          "options": ["La vue","L'ouie","La pensée","L'odorat","Le gout"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionText": "Comment nomme-t-on le passage d'un corps de l'état solide à l'état liquide",
+          "options": ["solidification", "condensation", "fusion", "liquéfaction"],
+          "correctOptionIndex": 2
+        }
+      ]
+    },
+    {
+      "themeName": "Culture générale",
+      "questions": [
+        {
+          "questionText": "Qui est la deuième personnalité de l'Etat Sénégalais?",
+          "options": ["Premier Ministre", "Président Assemblée nationale", "Ministre de la justice", "aucune de ces réponses"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionText": "Quelle est la devise de l'armée?",
+          "options": ["On nous tue; on ne nous déshonore pas", "Sauver ou Périr", "Honneur et Patrie", "Dans l'honneur au service de la loi"],
+          "correctOptionIndex": 0
+        },
+        {
+          "questionText": "Qui sont les <<soldats de l'économie>>?",
+          "options": ["L'armée nationale", "La police", "La douene", "La gendarmerie"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionText": "Quel organe est chargé de l'organisation des élections?",
+          "options": ["Le CESE", "La CENA", "L'Assemblé nationale", "Le Conseil constitutionnel"],
+          "correctOptionIndex": 1
+        },
+        {
+          "questionText": "Qui est l'actuel premier ministre?",
+          "options": ["Mouhamed Boun Abdallah Dione", "Amadou Mame DIOP", "Antoine DIOM", "Amadou Ba"],
+          "correctOptionIndex": 3
+        },
+        {
+          "questionText": "Qui est le khalife général des mourides?",
+          "options": ["Serigne Mbaye Sy Mansour", "Serigne Bass Abdou Khadre", "Serigne Mounakha Mbacké", "Serigne Mahi Niasse"],
+          "correctOptionIndex": 2
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,50 @@
+[
+        {
+          "questionText": "Qui est la deuième personnalité de l'Etat Sénégalais?",
+          "options": ["Premier Ministre", "Président Assemblée nationale", "Ministre de la justice", "aucune de ces réponses"],
+          "correctOptionIndex": 1,
+          "image":""
+        },
+        {
+          "questionText": "Quelle est la devise de l'armée?",
+          "options": ["On nous tue; on ne nous déshonore pas", "Sauver ou Périr", "Honneur et Patrie", "Dans l'honneur au service de la loi"],
+          "correctOptionIndex": 0,
+          "image":""
+        },
+        {
+          "questionText": "Qui sont les <<soldats de l'économie>>?",
+          "options": ["L'armée nationale", "La police", "La douene", "La gendarmerie"],
+          "correctOptionIndex": 1,
+          "image":""
+        },
+        {
+          "questionText": "Quel organe est chargé de l'organisation des élections?",
+          "options": ["Le CESE", "La CENA", "L'Assemblé nationale", "Le Conseil constitutionnel"],
+          "correctOptionIndex": 1,
+          "image":""
+        },
+        {
+          "questionText": "Qui est l'actuel premier ministre?",
+          "options": ["Mouhamed Boun Abdallah Dione", "Amadou Mame DIOP", "Antoine DIOM", "Amadou Ba"],
+          "correctOptionIndex": 3,
+          "image":""
+        },
+        {
+          "questionText": "Qui est le khalife général des mourides?",
+          "options": ["Serigne Mbaye Sy Mansour", "Serigne Bass Abdou Khadre", "Serigne Mounakha Mbacké", "Serigne Mahi Niasse"],
+          "correctOptionIndex": 2,
+          "image":""
+        },
+        {
+          "questionText": "Qui est cet homme politique sénégalais du début des indépendances?",
+          "options": ["Mamadou Dia", "Léopold Sédar Senghor", "Valdiodio Ndiaye", "Lamine Gueye"],
+          "correctOptionIndex": 0,
+          "image": "lib/assets/mamadou_dia.jpg"
+        },
+        {
+          "questionText": "Quel est le nom de cet édifice surplombant Dakar?",
+          "options": ["Le monument des arts nègres", "La place de l'indépendance", "Le phare des mamelles", "Le monument de la renaissance africaine"],
+          "correctOptionIndex": 3,
+          "image": "lib/assets/monument_renaissance.png"
+        }
+]  

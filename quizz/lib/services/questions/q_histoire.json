@@ -1,0 +1,63 @@
+
+[      
+        {
+          "questionText": "Qui fut le premier président du Sénégal?",
+          "options": ["Léopold Sédar Senghor", "Lamine Gueye", "Mamadou Dia", "Abdoulaye Wade"],
+          "correctOptionIndex": 0,
+          "image":""
+        },
+        {
+            "questionText": "En quelle année le Sénégal accède-t-il à l'indépendance?",
+            "options": ["1962", "1958", "1975", "1960"],
+            "correctOptionIndex": 0,
+            "image":""
+          },
+          {
+            "questionText": "Lat Dior DIOP est un résistant Sénégalais mort au combat le 26 Octobre 1886. De quelle bataille s'agissait-il?",
+            "options": ["Paos Coto", "Samba Sadio", "Dékheulé", "Ngol-Ngol"],
+            "correctOptionIndex": 2,
+            "image":""
+          },
+          {
+            "questionText": "Quel titre portait le roi du Walo?",
+            "options": ["Damel", "Brack", "Bourba", "Almamy"],
+            "correctOptionIndex": 1,
+            "image":""
+          },
+          {
+            "questionText": "Quand eut lieu la 'révolution torodo' des marabouts dans le Fouta Toro?",
+            "options": ["1790", "1532", "1776", "1850"],
+            "correctOptionIndex": 1,
+            "image":""
+          },
+          {
+            "questionText": "Qui furent les premiers Européens à s'établir au Sénégal?",
+            "options": ["Portugais", "Français", "Anglais", "Hollandais"],
+            "correctOptionIndex": 3,
+            "image":""
+          },
+          {
+            "questionText": "En quelle année se tint la bataille de Danki?",
+            "options": ["1549", "1725", "1645", "1865"],
+            "correctOptionIndex": 0,
+            "image":""
+          },
+          {
+            "questionText": "Qui fut la première femme à accéder à la primature du Sénégal?",
+            "options": ["Aminata Touré", "Aida Mbodj", "Aminata Tall", "Mame Madior BOYE"],
+            "correctOptionIndex": 3,
+            "image":""
+          },
+          {
+            "questionText": "La confédération de Sénégambie a existé de...?",
+            "options": ["2002 à 2005", "1972 à 1979", "1982 à 1989", "1960 à 1965"],
+            "correctOptionIndex": 2,
+            "image":""
+          },
+          {
+            "questionText": "Quelle résistante Sénégalaise est surnomée <<La dame de cabrousse>>?",
+            "options": ["Annette Mbaye d'Erneville", "Aline Sitoé Diatta", "Ndatté Yalla Mbodj", "Ndjeumbeut Mbodj"],
+            "correctOptionIndex": 1,
+            "image":""
+          }
+]

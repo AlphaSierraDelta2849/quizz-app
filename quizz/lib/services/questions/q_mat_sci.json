@@ -1,0 +1,80 @@
+[
+        {
+          "questionText": "Donnez le nombre premier parmi la liste suivante",
+          "options": ["1", "9", "12", "17"],
+          "correctOptionIndex": 3,
+          "image":""
+        },
+        {
+          "questionText": "Quelle suite de nombre ne contient que des multiples de 7",
+          "options": ["21; 17; 42;63", "14; 70; 140; 28", "12; 47; 21; 89", "21;27; 18; 35"],
+          "correctOptionIndex": 1,
+          "image":""
+        },
+        {
+          "questionText": "Donnez la valeur de x dans la formule suivante: x+12=5",
+          "options": ["-7","12","7","5"],
+          "correctOptionIndex": 0,
+          "image":""
+        },
+        {
+          "questionText": "En Mathématiques, comment note-t-on l'ensemble des entiers relatifs",
+          "options": ["R","N","D","Z"],
+          "correctOptionIndex": 3,
+          "image":""
+        },
+        {
+          "questionText": "Comment appelle-t-on la ligne qui relie deux points du cercle en passant par le centre?",
+          "options": ["corde","rayon","diamètre","tangente"],
+          "correctOptionIndex": 2,
+          "image":""
+        },
+        {
+          "questionText": "Quelle est la formule du bénéfice?",
+          "options": ["PA+ FRAIS","PR + FRAIS","PV - PR","PR - PA"],
+          "correctOptionIndex": 2,
+          "image":""
+        },
+        {
+          "questionText": "Que donne la racine carrée du carré d'un nombre x?",
+          "options": ["x","|x|","x2","-x"],
+          "correctOptionIndex": 1,
+          "image":""
+        },
+        {
+          "questionText": "D'après le principe de Lavoisier,",
+          "options": ["Rien ne se crée, rien ne se perd, tout se transforme","Tout a un début et une fin","Les memes causes produisent les memes effets","La forme ne change pas"],
+          "correctOptionIndex": 2,
+          "image":""
+        },
+        {
+          "questionText": "Comment nomme-t-on la surface d'un cerle",
+          "options": ["disque","triangle","sphère","rayon"],
+          "correctOptionIndex": 0,
+          "image":""
+        },
+        {
+          "questionText": "Quelles sont les états de la matière,",
+          "options": ["solide, liquide, gaz","eau, glace, vapeur","fusion, solidification, vaporisation","aucune de ces réponses"],
+          "correctOptionIndex": 0,
+          "image":""
+        },
+        {
+          "questionText": "Dans le système international quel est l'unité principale de mesure de masse?",
+          "options": ["Tonne","Litre","m","Kilogramme"],
+          "correctOptionIndex": 3,
+          "image":""
+        },
+        {
+          "questionText": "Lequel n'est pas un sens chez l'homme?",
+          "options": ["La vue","L'ouie","La pensée","L'odorat","Le gout"],
+          "correctOptionIndex": 3,
+          "image":""
+        },
+        {
+          "questionText": "Comment nomme-t-on le passage d'un corps de l'état solide à l'état liquide",
+          "options": ["solidification", "condensation", "fusion", "liquéfaction"],
+          "correctOptionIndex": 2,
+          "image":""
+        }
+]
